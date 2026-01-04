@@ -23,10 +23,6 @@
 - [🔧 Características Técnicas](#-características-técnicas)
 - [📁 Diccionario de Datos](#-diccionario-de-datos)
 - [🚀 Instalación y Configuración](#-instalación-y-configuración)
-- [💡 Casos de Uso](#-casos-de-uso)
-- [📈 Optimización y Performance](#-optimización-y-performance)
-- [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
-
 ---
 
 ## 🎯 Descripción del Proyecto
